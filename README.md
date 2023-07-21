@@ -1,5 +1,6 @@
-### Hi there 👋
+### I'm a Full Stack Web Developer previously with a background in Economics, Data Analysis and Ecommerce Management. This holistic perspective allows me to think about development with a "user first" mindset while creating a great customer experience and assertive business approach!  👋
 
+- 🌱 I’m currently learning .
 <!--
 **andres-mps/andres-mps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
