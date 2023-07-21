@@ -1,4 +1,4 @@
-### I'm a Full Stack Web Developer with a previous background in Economics, Data Analysis and Ecommerce Management. This holistic perspective allows me to think about development with a "user first" mindset while creating a great customer experience and assertive business approach!  👋
+### I'm a Full Stack Web Developer with a previous background in Economics, Data Analysis and Ecommerce Management looking for my first IT development oportunity. This holistic perspective allows me to think about development with a "user first" mindset while creating a great customer experience and assertive business approach!  👋
 
 - 🔭 Some technologies I feel comfortable working with:
 - Javascript
@@ -10,7 +10,10 @@
 - SQL
 - MONGODB
 - among other analytical tools like: GOOGLE ANALYTICS or TABLEAU
-- 
+
+### Please take a look of some of my latest project and contact me to explore how  working together could be great for both of us! 
+
+
 <!--
 **andres-mps/andres-mps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
