@@ -9,7 +9,7 @@
 - EXPRESS
 - SQL
 - MONGODB
-- among other analytical tools like: GOOGLE ANALYTICS or TABLEAU
+- among other analytical tools like: GOOGLE ANALYTICS, TABLEAU or POWER BI
 
 ### Please take a look of some of my latest project and contact me to explore how  working together could be great for both of us! 
 
