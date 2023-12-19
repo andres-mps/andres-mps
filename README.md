@@ -1,10 +1,12 @@
 ### I'm a Full Stack Web Developer with a previous background in Economics, Data Analysis and Ecommerce Management. This holistic perspective allows me to think about development with a "user first" mindset while creating a great customer experience and assertive business approach!  👋
 
 🔭 Some technologies I feel comfortable working with:
+- C#
 - JAVASCRIPT
 - HTML
 - CSS
 - REACT & REDUX
+- BLAZOR
 - NODE JS
 - EXPRESS
 - SQL
